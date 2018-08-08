@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+svg{width:24vw;height:24vw;}
+html,body{padding: 0;margin: 0;}
+
+body{border:1vw solid black;background-color:yellow; }
+.clear{
+  clear: both;}
+
+.flag-svg {
+  width: 24vw;
+  float: left;
+}
