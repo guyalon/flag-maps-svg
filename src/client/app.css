@@ -17,3 +17,20 @@ body{border:1vw solid black;background-color:yellow; }
   width: 24vw;
   float: left;
 }
+
+@media screen and (max-width: 992px) {
+  .flag-svg, svg{
+    width: 48vw;
+    height: 48vw;
+
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  .flag-svg,svg {
+    width: 96vw;
+    height: 96vw;
+
+  }
+}
