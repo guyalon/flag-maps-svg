@@ -1,5 +1,5 @@
 {
-  "name": "country-map-react-full-stack",
+  "name": "map-flags-svg",
   "version": "1.0.0",
   "description": "Country maps svg icons using React, Node.js, Express and Webpack.",
   "main": "src/server/index.js",

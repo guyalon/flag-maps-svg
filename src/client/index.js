@@ -17,6 +17,7 @@ main.httpGetAsyncPromise("/api/list").then(function(data){
         .then(function(results) {
             renderApp(results);
         }).catch(e => console.log(e));
+
 });
 
 

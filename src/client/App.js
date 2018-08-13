@@ -17,8 +17,8 @@ export default class App extends Component {
           });
     }
 
-  render() {
-      var rows = [];
+    render() {
+      const rows = [];
 
       if (this.state && this.state.svgs) {
           this.state.svgs.map(function (svg,index) {
